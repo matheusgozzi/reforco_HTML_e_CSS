@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100vw;
+}
+
+img{
+    width: 100vw;
+}
+a{
+    background-color: #FFFFFF;
+    color: black;
+    padding: 50px;
+    display: block;
+    text-align: center;
+    margin: auto;
+    font-weight: bold;
+    font-size: 4vh;
+    text-decoration: none;
+    margin-top: 0px;
+}
+
+a:hover{
+    background-color: black;
+    color: #d6b601d2;
+}
+::-webkit-scrollbar{
+   width: 0px;
+   height: 0px;
+}
